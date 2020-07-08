@@ -1,0 +1,51 @@
+﻿<Properties StartupConfiguration="{DAF2877D-21BA-E01D-A625-58C9D482E4DD}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Quit.cs">
+    <Files>
+      <File FileName="Assets/Scripts/MovAviaoCena2.cs" Line="96" Column="1" IsPinned="True" />
+      <File FileName="Assets/Scripts/Mensagens.cs" Line="34" Column="10" IsPinned="True" />
+      <File FileName="Assets/Scripts/ObjetosCena2.cs" Line="36" Column="26" IsPinned="True" />
+      <File FileName="Assets/Scripts/MovAviao.cs" Line="116" Column="1" />
+      <File FileName="Assets/Scripts/CameraPrincipal.cs" Line="55" Column="5" />
+      <File FileName="Assets/Scripts/Colisor.cs" />
+      <File FileName="Assets/Scripts/Solidos.cs" />
+      <File FileName="Assets/Scripts/Instaciador.cs" />
+      <File FileName="Assets/Scripts/Objetos.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Destruir.cs" />
+      <File FileName="Assets/Scripts/Nuven.cs" Line="26" Column="1" />
+      <File FileName="Assets/Scripts/Bomba.cs" />
+      <File FileName="Assets/Scripts/Explosao.cs" />
+      <File FileName="Assets/Scripts/Start.cs" Line="9" Column="50" />
+      <File FileName="Assets/Scripts/ScrolCena.cs" Line="5" Column="20" />
+      <File FileName="Assets/Scripts/RotacionarObjetos.cs" Line="16" Column="54" />
+      <File FileName="Assets/Scripts/LoadingInf.cs" Line="38" Column="2" />
+      <File FileName="Assets/Scripts/StartCena2.cs" Line="7" Column="24" />
+      <File FileName="Assets/Scripts/Chao.cs" Line="5" Column="18" />
+      <File FileName="Assets/Scripts/LodingFinal.cs" Line="7" Column="17" />
+      <File FileName="Assets/Scripts/MsgCena2.cs" Line="34" Column="27" />
+      <File FileName="Assets/Scripts/MsgCena3.cs" Line="32" Column="13" />
+      <File FileName="Assets/Scripts/MoviAviaoCena3.cs" Line="5" Column="18" />
+      <File FileName="Assets/Scripts/ObjCenas3.cs" Line="36" Column="28" />
+      <File FileName="Assets/Scripts/Quit.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Jogo dos solidos geometricos" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="Quit.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="0844417f-4056-46aa-b86d-7a7a9b29d05d" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
